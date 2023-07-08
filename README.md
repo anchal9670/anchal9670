@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python ,Django ,Flutter**
 
